@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Abhijeet Thakur",
+    "email": "abhijeet@gmail.com",
+    "position": "android developer",
+    "salary": "1100"
+  },
+  {
+    "id": 2,
+    "name": "Parth Shrivastava",
+    "email": "parth@gmail.com",
+    "position": "software developer",
+    "salary": "1280"
+  },
+  {
+    "id": 3,
+    "name": "Aastha Sharma",
+    "email": "aastha@gmail.com",
+    "position": "designer",
+    "salary": "11420.50"
+  },
+  {
+    "id": 5,
+    "name": "Chandgra Gupta",
+    "email": "chandu@gmail.com",
+    "position": "SDE",
+    "salary": "4587.14"
+  },
+  {
+    "id": 6,
+    "name": "Tanvi Aggrawal",
+    "email": "tanvi@gmail.com",
+    "position": "designer",
+    "salary": "96587.14"
+  },
+  {
+    "id": 7,
+    "name": "Soumya Jain",
+    "email": "Soumya@gmail.com",
+    "position": "php developer",
+    "salary": "4785.41"
+  },
+  {
+    "id": 8,
+    "name": "nikhil singhal",
+    "email": "nikhil@gmail.com",
+    "position": "java developer",
+    "salary": "5874.14"
+  }
+]

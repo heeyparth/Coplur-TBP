@@ -1,0 +1,14 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "this is the employee managment system ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "parth shrivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
